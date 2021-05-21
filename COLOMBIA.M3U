@@ -1,0 +1,10 @@
+#EXTM3U
+
+#EXTINF:-1, CARACOL
+https://vkvsd17.mycdn.me:443/hls/1298246470184.m3u8/sig/5KsVhSCTp7o/expires/1621725213561/srcIp/190.130.221.161/clientType/13/srcAg/CHROME_ANDROID/mid/2846837320488/1298246470184_high/index.m3u8
+
+#EXTINF:-1, RCN
+https://vkvsd50.mycdn.me:443/hls/1298247060008.m3u8/sig/YVxOAbfAQxs/expires/1621725527942/srcIp/190.130.221.161/clientType/13/srcAg/CHROME_ANDROID/mid/2846838106920/1298247060008_high/index.m3u8
+
+#EXTINF:-1, CITYV
+https://tna5.bozztv.com/ctygh54ye56uje/index.m3u8
