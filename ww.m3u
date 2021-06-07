@@ -1,0 +1,13 @@
+#EXTM3U
+
+#EXTINF:-1, FOX
+https://m2j3tv8e8t.azcdn728.net:8443/hls/0e733j.m3u8?s=Hu3e4VoOKBbxpdlxVfVevQ&e=1623051166
+
+#EXTINF:-1, TNT
+https://m2j3tv8e8t.azcdn728.net:8443/hls/glaldsq.m3u8?s=2rua3ebzZfTL8xQKeqOqOQ&e=1623051305
+
+#EXTINF:-1, NAT GEO
+https://m2j3tv8e8t.azcdn728.net:8443/hls/kdpyrp6kgiaf2sc.m3u8?s=rZrhKg5bZlbmMPlef1Ur5Q&e=1623051354
+
+#EXTINF:-1, UNIVERSAL
+https://m2j3tv8e8t.azcdn728.net:8443/hls/kdpyrp6kgiaf2sc.m3u8?s=rZrhKg5bZlbmMPlef1Ur5Q&e=1623051354
